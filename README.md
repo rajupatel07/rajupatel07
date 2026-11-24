@@ -1,5 +1,5 @@
 %md
-<img align="right" width="300" src="https://raw.githubusercontent.com/rajupatel2386/rajupatel2386/main/assets/data_eng_banner.jpg" alt="Data Engineer banner" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/rajupatel07/rajupatel07/main/assets/data_eng_banner.jpg" alt="Data Engineer banner" />
 
 # Hi, I'm Raju Patel 👋
 
@@ -135,4 +135,3 @@ Working with data engineering solutions involving:
 
 ---
 
-*Interested in building reliable data platforms, solving data challenges and transforming data into meaningful business insights.*
