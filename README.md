@@ -47,7 +47,7 @@ I'm particularly interested in modern data engineering, cloud data platforms, da
 
 ---
 
-## 🚀 Selected Data Engineering Projects
+## 🚀 Data Engineering Projects
 
 ### 📦 1. [Retail Data Platform](https://github.com/rajupatel2386/retail-data-platform)
 **`Azure Databricks · PySpark · Delta Lake · Azure Cosmos DB · SQL Server · Amazon S3 · Git`**
@@ -132,8 +132,8 @@ Working with data engineering solutions involving:
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajupatel2386&show_icons=true&hide_border=true" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajupatel2386&layout=compact&hide_border=true" width="41%" />
+*<img src="https://github-readme-stats.vercel.app/api?username=rajupatel2386&show_icons=true&hide_border=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajupatel2386&layout=compact&hide_border=true" width="41%" />*
 
 ---
 
