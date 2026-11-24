@@ -1,5 +1,5 @@
 %md
-<img align="right" width="300" src="https://raw.githubusercontent.com/rajupatel2386/rajupatel2386/main/assets/data-engineer-banner.png" alt="Data Engineer banner" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/rajupatel2386/rajupatel2386/main/data-eng-banner.jpg" alt="Data Engineer banner" />
 
 # Hi, I'm Raju Patel 👋
 
