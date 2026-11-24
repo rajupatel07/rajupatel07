@@ -132,8 +132,6 @@ Working with data engineering solutions involving:
 
 ---
 
-*<img src="https://github-readme-stats.vercel.app/api?username=rajupatel2386&show_icons=true&hide_border=true" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajupatel2386&layout=compact&hide_border=true" width="41%" />*
 
 ---
 
