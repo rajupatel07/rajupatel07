@@ -52,7 +52,7 @@ I'm particularly interested in modern data engineering, cloud data platforms, da
 
 ---
 
-## Selected Data Engineering Projects
+## Data Engineering Projects
 
 ### 1. Retail Data Platform
 
