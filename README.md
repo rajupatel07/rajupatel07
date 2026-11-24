@@ -1,159 +1,69 @@
-## Hi there 👋
-# Hi, I'm Raju Patel
+%md
+<img align="right" width="300" src="https://raw.githubusercontent.com/rajupatel2386/rajupatel2386/main/assets/data-engineer-banner.png" alt="Data Engineer banner" />
 
-### Data Engineer | Azure Databricks | Microsoft Fabric | PySpark | Python | SQL
+# Hi, I'm Raju Patel 👋
 
-I'm a Data Engineer focused on building reliable, scalable data solutions and end-to-end data pipelines that transform raw data into meaningful business insights.
+**Data Engineer** · Azure Databricks · PySpark · Delta Lake · SQL · Power BI
 
-My experience and hands-on projects cover data ingestion, ETL/ELT development, incremental data processing, dimensional modelling, workflow orchestration and analytics-ready data solutions.
-
-I'm particularly interested in modern data engineering, cloud data platforms, data architecture and building solutions that support data-driven decision-making.
+I build end-to-end data platforms — from multi-source ingestion to analytics-ready models that power business reporting. 1.7+ years of hands-on experience designing ETL/ELT pipelines, Medallion architectures and dimensional models across retail, education and workforce analytics.
 
 ---
 
-## Technical Skills
+### 🛠️ Tech Stack
 
-**Programming & Querying**
-- Python
-- PySpark
-- SQL
-- Databricks SQL
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0078D4?style=for-the-badge&logo=delta&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Data Engineering**
-- ETL / ELT Pipelines
-- Incremental Data Loading
-- Delta Lake
-- SCD Type 1
-- Delta Lake MERGE Operations
-- Medallion Architecture (Bronze, Silver, Gold)
-
-**Platforms & Cloud**
-- Azure Databricks
-- Microsoft Fabric
-- Microsoft Azure
-- Azure Cosmos DB
-- Amazon S3
-- Unity Catalog
-- SQL Server
-
-**Data Modelling & Analytics**
-- Star Schema
-- Fact and Dimension Tables
-- Dimensional Modelling
-- Historical Snapshots
-- Power BI
-
-**Orchestration & DevOps**
-- Databricks Jobs
-- Declarative Automation Bundles
-- Workflow Orchestration
-- Git
-- CI/CD
+**Data Engineering:** ETL/ELT · Incremental Loading (SCD Type 1/2, MERGE) · Medallion Architecture · Star Schema · Historical Snapshots
+**Platforms & Governance:** Azure Databricks · Unity Catalog · Microsoft Fabric · Azure Cosmos DB
+**Orchestration & DevOps:** Databricks Jobs · Declarative Automation Bundles · Git-based CI/CD
 
 ---
 
-## Data Engineering Projects
+### 🚀 Featured Projects
 
-### 1. Retail Data Platform
+**📦 [Retail Data Platform](https://github.com/rajupatel2386/retail-data-platform)** — `Azure Databricks · PySpark · Delta Lake`
+Multi-source data platform integrating Azure Cosmos DB, SQL Server and Amazon S3 into a Bronze–Silver–Gold Medallion Architecture — config-driven PySpark ETL, SCD Type 1 via Delta MERGE, star-schema modelling, and secrets managed through Databricks Scopes.
 
-**Technologies:** Azure Databricks, PySpark, Delta Lake, Azure Cosmos DB, SQL Server, Amazon S3, Git
+**🎓 [Education Analytics ELT Platform](https://github.com/rajupatel2386/education-analytics)** — `Databricks · PySpark · SQL`
+Automated ELT pipeline ingesting Google Sheets data (students, batches, classes, assignments, attendance) into Unity Catalog, with Databricks SQL dimensional modelling and dependency-aware scheduled orchestration, deployed via a Declarative Automation Bundle.
 
-- Designed a multi-source data platform integrating data from Azure Cosmos DB, SQL Server and Amazon S3.
-- Implemented a Bronze–Silver–Gold Medallion Architecture using Delta Lake.
-- Built configuration-driven PySpark ETL pipelines.
-- Implemented SCD Type 1 updates using Delta Lake MERGE operations.
-- Developed analytics-ready fact and dimension tables following dimensional modelling principles.
-- Applied Git-based CI/CD practices and managed secrets through Databricks Scopes.
-
-### 2. Education Analytics ELT Platform
-
-**Technologies:** Azure Databricks, PySpark, Databricks SQL, Unity Catalog, Google Sheets
-
-- Built an ELT pipeline to ingest education academy data from Google Sheets, covering students, batches, classes, assignments and attendance.
-- Developed an analytics-ready data model within Unity Catalog.
-- Implemented dimensional modelling using Databricks SQL.
-- Orchestrated daily pipeline execution through a dependency-aware Databricks Job.
-- Used a Declarative Automation Bundle to deploy the workflow.
-
-### 3. Workforce Analytics Platform
-
-**Technologies:** Azure Databricks, PySpark, Delta Lake, SQL, Power BI
-
-- Built a data pipeline to process workforce shift, operational work and shrinkage data.
-- Implemented an initial full load followed by incremental delta-file processing.
-- Created historical daily snapshots in Delta tables to preserve changes over time.
-- Developed Gold-layer fact and dimension tables for analytical reporting.
-- Connected curated datasets to Power BI to support workforce analysis and historical reporting.
-- Prepared workforce measures including utilisation and sickness percentage.
+**👔 [Workforce Analytics Platform](https://github.com/rajupatel2386/workforce-analytics)** — `Databricks · PySpark · Delta Lake · Power BI`
+Full-load + incremental delta processing of shift, work and shrinkage data into historical daily snapshots, feeding Gold-layer facts and dimensions for Power BI — utilisation, sickness and plan-adherence reporting.
 
 ---
 
-## Professional Experience
+### 💼 Experience
 
-**Data Engineer — Quantix IT**  
-*May 2025 – Present | England, United Kingdom*
+| Role | Company | Period |
+| --- | --- | --- |
+| Data Engineer | **Quantix IT** · England, UK | May 2025 – Present |
+| Software Developer | Viva Software Solutions Pvt. Ltd. | Jan 2024 – Jan 2025 |
+| Frontend Developer | Josho IT Solution Company | Dec 2020 – Apr 2021 |
 
-Working with data engineering solutions involving:
-- End-to-end ETL/ELT pipelines and multi-source data integration.
-- Medallion Architecture and Delta Lake.
-- Incremental data processing and dimensional modelling.
-- Databricks Jobs, workflow orchestration and Git-based CI/CD.
-- Power BI reporting and analytics-ready datasets.
-
-**Software Developer — Viva Software Solutions Pvt. Ltd.**  
-*January 2024 – January 2025*
-
-- Developed and maintained 5–7 websites.
-- Managed website hosting operations.
-- Optimised and maintained backend databases to support data integrity and website functionality.
-
-**Frontend Developer — Josho IT Solution Company**  
-*December 2020 – April 2021*
-
-- Created new front-end web pages.
-- Maintained existing websites.
-- Contributed to user experience and website improvements.
+**At Quantix IT I:** build ETL/ELT pipelines from SQL Server, Cosmos DB, S3 and Google Sheets · implement Medallion Architecture with Delta Lake · design star schemas · run incremental processing with SCD1, MERGE and historical snapshots · automate with Databricks Jobs, DABs and Git CI/CD · deliver curated data to Power BI.
 
 ---
 
-## Education
+### 🎓 Education
 
-- **Master's Degree in Data Science** — Coventry University (January 2025 – January 2026)
-- **Bachelor of Science in Information Technology (BSc IT)** — University of Mumbai (December 2020 – March 2024)
-- **Viva College** — Intermediate (12th)
-
----
-
-## Professional Interests
-
-- Modern Data Engineering
-- Cloud Data Platforms
-- Scalable ETL/ELT Pipelines
-- Data Warehousing and Dimensional Modelling
-- Incremental Data Processing
-- Data Architecture
-- Business Intelligence and Analytics
+**MSc Data Science** — Coventry University (2025–2026)
+**BSc Information Technology** — University of Mumbai / Viva College (2020–2024)
 
 ---
 
-## Connect With Me
+### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/rajupatel07](https://www.linkedin.com/in/rajupatel07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajupatel07)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajupatel2386@gmail.com)
 
 ---
 
-*Interested in building reliable data platforms, solving data challenges and transforming data into meaningful business insights.*
-<!--
-**rajupatel07/rajupatel07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=rajupatel2386&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajupatel2386&layout=compact&hide_border=true" width="41%" />
