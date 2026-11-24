@@ -54,6 +54,7 @@ Full-load + incremental delta processing of shift, work and shrinkage data into 
 ### 🎓 Education
 
 **MSc Data Science** — Coventry University (2025–2026)
+
 **BSc Information Technology** — University of Mumbai / Viva College (2020–2024)
 
 ---
