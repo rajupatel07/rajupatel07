@@ -29,7 +29,7 @@ I'm particularly interested in modern data engineering, cloud data platforms, da
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<details>
+<details open>
 <summary><b>📄 Full Technical Skills</b></summary>
 
 **Programming & Querying:** Python · PySpark · SQL · Databricks SQL
@@ -42,7 +42,7 @@ I'm particularly interested in modern data engineering, cloud data platforms, da
 
 **Orchestration & DevOps:** Databricks Jobs · Declarative Automation Bundles · Workflow Orchestration · Git · CI/CD
 
-</details>
+</details open>
 
 ---
 
