@@ -32,9 +32,9 @@ I'm particularly interested in modern data engineering, cloud data platforms, da
 <details open>
 <summary><b>📄 Full Technical Skills</b></summary>
 
-**Programming & Querying:** Python · PySpark · SQL · Databricks SQL
+**Programming & Querying:** Python · PySpark · SQL
 
-**Data Engineering:** ETL / ELT Pipelines · Incremental Data Loading · Delta Lake · SCD Type 1 · Delta Lake MERGE Operations · Medallion Architecture (Bronze, Silver, Gold)
+**Data Engineering:** ETL / ELT Pipelines · Incremental Data Loading · Delta Lake · SCD functions · Delta Lake MERGE Operations · Medallion Architecture (Bronze, Silver, Gold)
 
 **Platforms & Cloud:** Azure Databricks · Microsoft Fabric · Microsoft Azure · Azure Cosmos DB · Amazon S3 · Unity Catalog · SQL Server
 
@@ -83,11 +83,11 @@ I'm particularly interested in modern data engineering, cloud data platforms, da
 
 | Role | Company | Period |
 | --- | --- | --- |
-| Data Engineer | **Quantix IT** · England, UK | May 2025 – Present |
+| Data Engineer | **Quantix IT** · London, UK | May 2025 – Present |
 | Software Developer | Viva Software Solutions Pvt. Ltd. | Jan 2024 – Jan 2025 |
 | Frontend Developer | Josho IT Solution Company | Dec 2020 – Apr 2021 |
 
-**Data Engineer — Quantix IT** · *May 2025 – Present | England, United Kingdom*
+**Data Engineer — Quantix IT** · *May 2025 – Present | London, United Kingdom*
 
 Working with data engineering solutions involving:
 - End-to-end ETL/ELT pipelines and multi-source data integration.
