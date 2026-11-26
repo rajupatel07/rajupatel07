@@ -1,4 +1,3 @@
-%md
 <img align="right" width="300" src="https://raw.githubusercontent.com/rajupatel07/rajupatel07/main/assets/data_eng_banner.jpg" alt="Data Engineer banner" />
 
 # Hi, I'm Raju Patel 👋
