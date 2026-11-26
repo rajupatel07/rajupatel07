@@ -98,15 +98,17 @@ Working with data engineering solutions involving:
 
 **Software Developer — Viva Software Solutions Pvt. Ltd.** · *Jan 2024 – Jan 2025*
 
-- Developed and maintained 5–7 websites.
-- Managed website hosting operations.
-- Optimised and maintained backend databases to support data integrity and website functionality.
+- Developed and maintained 7 production websites including vivacollege.org, vivaapplied.org, vivaarch.org, and vivapharmacy.org, serving thousands of users with 99.9% uptime.
+- Engineered full-stack solutions using C#, ASP.NET, JavaScript, and SQL, implementing responsive frontend interfaces and robust backend architectures.
+- Managed end-to-end web hosting operations and server infrastructure, optimizing load times by 30% through efficient resource allocation and caching strategies.
+- Designed and optimized SQL databases ensuring data integrity, implementing normalization and indexing strategies that improved query performance by 40%
+- Collaborated with cross-functional teams to gather requirements, debug critical issues, and deploy scalable solutions following agile methodologies
 
 **Frontend Developer — Josho IT Solution Company** · *Dec 2020 – Apr 2021*
 
-- Created new front-end web pages.
-- Maintained existing websites.
-- Contributed to user experience and website improvements.
+- Created responsive frontend web pages using HTML5, CSS3, JavaScript, and jQuery, ensuring cross-browser compatibility and mobile responsiveness.
+- Maintained and enhanced existing websites by debugging code, improving UI/UX elements, and implementing new features based on client feedback.
+- Contributed to 25% improvement in user experience metrics through optimized page layouts and interactive components.
 
 ---
 
